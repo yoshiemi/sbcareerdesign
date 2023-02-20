@@ -1,0 +1,25 @@
+h1, h2, h3, h4, h5, h6, img, p {
+margin: 0;
+padding: 0;
+font-weight: normal;
+}
+
+/* リストの点を消す */
+li {
+list-style-type: none;
+}
+
+/* リンクの罫線を消す */
+a {
+text-decoration: none;
+}
+
+/* 表のラインを一重に */
+table {
+border-collapse: collapse;
+}
+
+img {
+width: 100%;
+}
+
